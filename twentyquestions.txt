@@ -1,0 +1,99 @@
+Is it known for being black in color?: 1 black 
+Is it predominantly white?: 2 white
+Does it have a bluish hue or color?: 3 blue
+Is it characterized by a brown coat or appearance?: 4 brown
+Is it a species often seen in shades of gray?: 5 gray
+Does it have bright orange features?: 6 orange
+Is it recognized by its red coloration?: 7 red
+Does it have yellow markings or tones?: 8 yellow
+Does it have noticeable patches on its body?: 9 patches
+Is it covered in spots?: 10 spots
+Does it have stripes running across its body?: 11 stripes
+Is it known for its furry or fluffy texture?: 12 furry
+Does it lack fur, making it hairless?: 13 hairless
+Is its skin tough and rugged?: 14 toughskin
+Is it large in size?: 15 big
+Is it small compared to others?: 16 small
+Does it have a bulbous or rounded shape?: 17 bulbous
+Is it characterized by a lean and slender body?: 18 lean
+Does it have flippers for swimming?: 19 flippers
+Does it have hands similar to humans?: 20 hands
+Does it walk on hooves?: 21 hooves
+Does it have padded feet?: 22 pads
+Does it have paws?: 23 paws
+Does it have long legs?: 24 longleg
+Is it known for having a long neck?: 25 longneck
+Does it have a prominent tail?: 26 tail
+Does it have teeth designed for chewing?: 27 chewteeth
+Does it have sharp teeth for eating meat?: 28 meatteeth
+Does it have prominent buck teeth?: 29 buckteeth
+Does it use its teeth to strain food?: 30 strainteeth
+Does it have horns on its head?: 31 horns
+Is it equipped with sharp claws?: 32 claws
+Does it have large tusks?: 33 tusks
+Is it known for being smelly?: 34 smelly
+Can it fly through the air?: 35 flys
+Does it move around by hopping?: 36 hops
+Is it adapted for swimming in water?: 37 swims
+Does it dig tunnels or burrows?: 38 tunnels
+Does it primarily move by walking?: 39 walks
+Is it known for being exceptionally fast?: 40 fast
+Is it characterized by slow movement?: 41 slow
+Is it known for its physical strength?: 42 strong
+Is it relatively weak compared to others?: 43 weak
+Is it well-muscled and powerful?: 44 muscle
+Does it walk upright on two legs?: 45 bipedal
+Does it move on all four legs?: 46 quadrapedal
+Is it highly active and energetic?: 47 active
+Is it usually inactive or lethargic?: 48 inactive
+Is it active mainly during the night?: 49 nocturnal
+Does it hibernate during certain seasons?: 50 hibernate
+Is it known for its agility and speed?: 51 agility
+Does it primarily consume fish?: 52 fish
+Is its diet mainly composed of meat?: 53 meat
+Does it feed on plankton?: 54 plankton
+Is its diet mostly vegetarian?: 55 vegetation
+Does it eat insects as part of its diet?: 56 insects
+Is it a forager, searching for food over wide areas?: 57 forager
+Does it graze on vegetation like grass?: 58 grazer
+Is it a hunter, chasing and catching prey?: 59 hunter
+Does it scavenge for food from remains?: 60 scavenger
+Does it skim the surface of water for food?: 61 skimmer
+Is it a stalker, quietly approaching its prey?: 62 stalker
+Is it native to the New World regions?: 63 newworld
+Is it native to the Old World regions?: 64 oldworld
+Does it live in arctic or cold regions?: 65 arctic
+Does it inhabit coastal areas?: 66 coastal
+Is it adapted to desert environments?: 67 desert
+Does it dwell in bushy areas?: 68 bush
+Is it commonly found on open plains?: 69 plains
+Does it live in forests?: 70 forest
+Is it commonly seen in fields?: 71 fields
+Is it a resident of the jungle?: 72 jungle
+Is it found in mountainous regions?: 73 mountains
+Does it dwell in the ocean?: 74 ocean
+Does it primarily stay on the ground?: 75 ground
+Does it spend most of its time in water?: 76 water
+Does it live in or around trees?: 77 tree
+Does it live in caves?: 78 cave
+Is it known for being fierce or aggressive?: 79 fierce
+Is it shy or timid in nature?: 80 timid
+Is it considered highly intelligent?: 81 smart
+Does it live and move in groups?: 82 group
+Is it a solitary animal?: 83 solitary
+Does it build or stay in nests?: 84 nestspot
+Is it a domesticated animal?: 85 domestic
+Does it thrive in aquatic environments like oceans or rivers?: 37 swims 76 water 74 ocean 19 flippers
+Is it known for its predatory traits, like sharp claws and teeth?: 59 hunter 32 claws 28 meatteeth 62 stalker
+Does it live in cold or mountainous regions?: 65 arctic 73 mountains
+Is it primarily found in forests or jungles?: 70 forest 72 jungle 77 tree 84 nestspot
+Does it live in warm and dry habitats like deserts or bushland?: 67 desert 68 bush
+Does it display patterns like stripes, spots, or patches?: 11 stripes 10 spots 9 patches
+Is it known for grazing or foraging vegetation?: 58 grazer 57 forager 55 vegetation 69 plains
+Does it fly or have features suited for airborne movement?: 35 flys 45 bipedal 42 strong 51 agility
+Is it a nocturnal animal that is active mainly at night?: 49 nocturnal 83 solitary 47 active
+Does it live in group settings, showing social behavior?: 82 group 81 smart 85 domestic
+Does it inhabit areas like fields, plains, or open spaces?: 71 fields 69 plains 75 ground
+Is it known for its speed and agility?: 40 fast 51 agility 24 longleg 44 muscle
+Does it consume small prey like insects, fish, or plankton?: 56 insects 52 fish 54 plankton 61 skimmer
+Does it exhibit timid or solitary behavior?: 80 timid 83 solitary 48 inactive
