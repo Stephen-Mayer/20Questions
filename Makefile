@@ -1,4 +1,11 @@
-//To make type 
+/*
+Instructions to run:
+Open terminal and access Final Project folder
+Do the following commands:
+make
+./20Questions input_layer_weights.txt input_biases.txt hidden_layer_weights.txt hidden_biases.txt classes.txt predicates.txt predicate-matrix-binary.txt twentyquestions.txt
+./20Questions randomized_input_layer_weights.txt randomized_input_biases.txt randomized_hidden_layer_weights.txt randomized_hidden_biases.txt classes.txt predicates.txt predicate-matrix-binary.txt twentyquestions.txt
+*/
 
 CC = g++
 CFLAGS = -pg -Wall -std=c++11
